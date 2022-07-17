@@ -21,6 +21,6 @@ try:
     result = eval(numbers)
 except SyntaxError:
     print ("Failure: %s" % SyntaxError)    
-    raise SystemExit
+    exit()
 
 print ("     %s" % addFormatting(result))
