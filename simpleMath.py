@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-# Name: simpleMath.pl
+# Name: simpleMath.py
 # License: Released under GPL v2 or higher. Details here http://www.gnu.org/licenses/gpl.html
 # Author: Jason Campisi
-# Version 1.2.0
+# Version 1.2.1
 # Date: 7/17/2022
 # Purpose: Send some math to the program at the command line to calulate & format it with commas.
 # Usage: simpleMath.py "insert equation here"
@@ -19,8 +19,7 @@ print ("This %s yields" % numbers)
 
 try:
     result = eval(numbers)
+    print ("     %s" % addFormatting(result))
 except SyntaxError:
     print ("Failure: %s" % SyntaxError)    
     exit()
-
-print ("     %s" % addFormatting(result))
