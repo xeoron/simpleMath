@@ -18,7 +18,6 @@ numbers = sys.argv[1]
 print ("This %s yields" % numbers)
 
 try:
-    #result = eval(numbers)
     print ("     %s" % addFormatting(eval(numbers)))
 except SyntaxError:
     print ("Failure: %s" % SyntaxError)    
