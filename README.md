@@ -13,7 +13,7 @@ Usage
 =====  
 To install:    sudo ./install_simpleMath.sh
 
-To Use: simplemath "insert-equation-here"
+To use: simplemath "insert-equation-here"
 
 Examples:
 =====  
