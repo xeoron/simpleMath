@@ -14,6 +14,7 @@ Usage
 To install:    sudo ./install_simpleMath.sh
 
 Examples:
+=====  
      simpleMath "100*8*5*42*.88" 
         147,840.00
      simpleMath "(3.14159*42)/12"
