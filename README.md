@@ -7,7 +7,7 @@ Sometimes, it is easier to just type simpeMath "your Formula here" and see the r
 Requirements
 =====  
 
-Designed for macOS and Linux, yet will work on other *nix systems and Windows.
+Python & designed for macOS and Linux, yet will work on other *nix systems and Windows.
 
 Usage
 =====  
