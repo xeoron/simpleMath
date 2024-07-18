@@ -1,8 +1,13 @@
 simpleMath
 =====
 Sometimes we just want to do simple math at the commandline without having to echo things to bc and piping it to other programs to format it. 
+
 Sometimes, it is easier to just type simpeMath "your Formula here" and see the results
 
+=====
+Designed for macOS and Linux, yet will work on other *nix systems and Windows.
+
+=====
 Usage Example
 
     sudo ./install_simpleMath.sh  <-- to install it
