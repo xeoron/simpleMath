@@ -12,6 +12,7 @@ Designed for macOS and Linux, yet will work on other *nix systems and Windows.
 Usage
 =====  
 To install:    sudo ./install_simpleMath.sh
+
 To Use: simplemath "insert-equation-here"
 
 Examples:
