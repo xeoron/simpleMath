@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Name: simpleMath.py
 # License: Released under GPL v2 or higher. Details here http://www.gnu.org/licenses/gpl.html
 # Author: Jason Campisi
-# Version 1.3.0
+# Version 1.3.1
 # Date: 8/02/2022
 # Purpose: Send some math to the program at the command line to calulate & format it with commas.
 # Usage: simpleMath.py "insert equation here"
